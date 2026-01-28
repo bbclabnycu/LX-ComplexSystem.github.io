@@ -18,6 +18,6 @@ title: Schedule
 | 11 | 2025-11-13(四) | 複雜系統、<br>模式辨識與分類能力 |<a href="./src/SemanticComputing_01.pdf" target="_blank" rel="noopener">語意計算_01.pdf</a>|N/A |
 | 12 | 2025-11-20(四) | 模式辨識<br>與分類能力 |N/A |<a href="./src/wh_fronting_adv.zip" target="_blank" rel="noopener">wh\_fronting\_adv.zip</a>|
 | 13 | 2025-11-27(四) | 模式辨識<br>與分類能力 |<a href="./src/SemanticComputing_01.pdf" target="_blank" rel="noopener">語意計算_01.pdf</a>|N/A |
-| 14 | 2025-12-04(四) | 強人工智慧<br>的語言能力設計<br>與融合式系統 |<a href="./src/The Computability of Language Structure.pdf" target="_blank" rel="noopener">人類語言中<br>的數學性質</a> |N/A |
-| 15 | 2025-12-11(四) | 強人工智慧<br>的語言能力設計<br>與融合式系統 |<a href="./src/Semantic_Computing.pdf" target="_blank" rel="noopener">語意計算_02</a> |<a href="./src/chapter_scales.pdf" target="_blank" rel="noopener">chapter_scales.pdf</a> 
-| 16 | 2025-12-18(四) | 強人工智慧<br>的語言能力設計<br>與融合式系統：<br>學生協作報告與期末專題<br> |N/A  |N/A |
+| 14 | 2025-12-04(四) | 強人工智慧的語言能力設計<br>與融合式系統 |<a href="./src/The Computability of Language Structure.pdf" target="_blank" rel="noopener">人類語言中<br>的數學性質</a> |N/A |
+| 15 | 2025-12-11(四) | 強人工智慧的語言能力設計<br>與融合式系統 |<a href="./src/Semantic_Computing.pdf" target="_blank" rel="noopener">語意計算_02</a> |<a href="./src/chapter_scales.pdf" target="_blank" rel="noopener">chapter_scales.pdf</a> 
+| 16 | 2025-12-18(四) | 強人工智慧的語言能力設計<br>與融合式系統：<br>學生協作報告與期末專題<br> |N/A  |N/A |
