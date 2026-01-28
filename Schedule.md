@@ -12,7 +12,7 @@ title: Schedule
 | 5 | 2025-10-02(四) | 簡單系統與符號邏輯 |<a href="./src/complex_systems_linguistics.pdf" target="_blank" rel="noopener">複雜系統在語言科技中的應用</a> | N/A |
 | 6 | 2025-10-09(四) | 語言科技：實務應用 |<a href="./src/complex_systems_linguistics.pdf" target="_blank" rel="noopener">複雜系統在語言科技中的應用</a> | N/A |
 | 7 | 2025-10-16(四) | 複雜系統 |<a href="./src/複雜系統_人造生命_人工智能.pdf" target="_blank" rel="noopener">複雜系統、人造生命與人工智能</a> | N/A |
-| 8 | 2025-10-23(四) | 複雜系統分析 |<a href="./src/壓縮.pdf" target="_blank" rel="noopener">壓縮</a> |<a href="./src/kolmogorov_complexity_<br>lang_experiment.py" target="_blank" rel="noopener">kolmogorov\_complexity\_lang\_experiment.py</a>|
+| 8 | 2025-10-23(四) | 複雜系統分析 |<a href="./src/壓縮.pdf" target="_blank" rel="noopener">壓縮</a> |<a href="./src/kolmogorov_complexity_lang_experiment.py" target="_blank" rel="noopener">kolmogorov\_complexity\_<br>lang\_experiment.py</a>|  
 | 9 | 2025-10-30(四) | 複雜系統模組實作 |<a href="./src/Alignment.pdf" target="_blank" rel="noopener">對齊</a> |<a href="./src/w2v.py" target="_blank" rel="noopener">w2v.py</a>|
 | 10 | 2025-11-06(四) | 複雜系統模組實作 |N/A |<a href="./src/raw_data.zip" target="_blank" rel="noopener">raw\_data.zip</a><br><a href="./src/wh_fronting_BasicIntent.zip" target="_blank" rel="noopener">wh\_fronting\_BasicIntent.zip</a>|
 | 11 | 2025-11-13(四) | 複雜系統、模式辨識與分類能力 |<a href="./src/SemanticComputing_01.pdf" target="_blank" rel="noopener">語意計算_01.pdf</a>|N/A |
